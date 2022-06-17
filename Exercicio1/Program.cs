@@ -11,7 +11,7 @@ namespace Exercicio1
             Console.Write("informe o número 2: ");
             double numero2 = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("--------------------------");
+            Console.WriteLine("----------------------------");
 
             Console.WriteLine(numero1 + " - " + numero2);
             
